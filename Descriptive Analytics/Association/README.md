@@ -1,6 +1,6 @@
 # Association Rules
 
-For this exercise, we found the association of different transactions in a dataset and used the Apriori Algorithm to streamline the calculations.
+For this exercise, we found the associations of different transactions in a dataset and used the Apriori Algorithm to streamline the calculations.
 We start by using x->y as the definition of a transaction. The antecedent (x) is associated with the consequent (y). 
 X can imply Y, but that doesn't mean that Y implies X.
 
